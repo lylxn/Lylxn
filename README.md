@@ -33,8 +33,10 @@
 
 ###
 
-<h1>
+<h3>
   I am currently working on :
+</h3>
+<meta property="og:image" content="https://opengraph.githubassets.com/%3Cany_hash_number%3E/lylxn/trayko" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="600" />
 
-  https://opengraph.githubassets.com/%3Cany_hash_number%3E/lylxn/trayko
-</h1>
