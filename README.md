@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Im from Egypt 🇪🇬, and I'm fluent in Arabic and English.</h3>
+<h3 align="left">Im from Egypt 🇪🇬, and I'm fluent in Arabic 🇸🇦 and English 🇬🇧.</h3>
 
 ###
 
