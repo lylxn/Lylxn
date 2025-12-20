@@ -35,8 +35,11 @@
 
 <h3>
   I am currently working on :
+ <a href="https://github.com/lylxn/trayko" target="_blank" rel="noopener noreferrer">
+  <img width="1200" height="600" alt="trayko" src="https://github.com/user-attachments/assets/31b8c391-8082-4279-8867-0fabcd69bf73" />
+</a>
+
+
 </h3>
-<meta property="og:image" content="https://opengraph.githubassets.com/%3Cany_hash_number%3E/lylxn/trayko" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="600" />
+
 
