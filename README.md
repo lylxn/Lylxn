@@ -35,12 +35,10 @@
 
 <h3>
   I am currently working on :
- <a href="github.com" target="_blank" rel="noopener noreferrer">
-  <img width="1200" height="600" alt="trayko" 
-       src="github.com" 
-       style="border: 2px solid #e1e4e8; border-radius: 12px; max-width: 100%; height: auto;" />
+ 
+  <a href="https://github.com/lylxn/trayko" target="_blank" rel="noopener noreferrer">
+  <img width="600" height="200" alt="trayko" src="https://github.com/user-attachments/assets/31b8c391-8082-4279-8867-0fabcd69bf73" />
 </a>
-
 
 </h3>
 
