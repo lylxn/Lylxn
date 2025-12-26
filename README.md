@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hey there again, I’m Lylxn. I am a developer from Egypt with experience in JavaScript, TypeScript, Python and HTML. I focus on writing clean and understable code and building projects that are simple to use and easy to maintain. I am fluent in Arabic and English, which helps me work effectively with diverse teams and resources. I am continuously learning new technologies, improving my problem solving skills and expanding my technical abilities. I am available for hire and open to opportunities where I can contribute to meaningful projects and grow as a developer.</p>
+<p align="left">Hey there again, I’m Lylxn. I am a developer from Egypt with experience in JavaScript, TypeScript, Python and HTML. I focus on writing clean and understable code and building projects that are simple to use and easy to maintain. I am fluent in Arabic and English, which helps me work effectively with diverse teams and resources. I am continuously learning new technologies, improving my problem solving skills and expanding my technical abilities. I am available for **hire** and open to opportunities where I can contribute to meaningful projects and grow as a developer.</p>
 
 ###
 
