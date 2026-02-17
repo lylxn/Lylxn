@@ -39,7 +39,7 @@
   I am currently working on :
 </h2> 
   <a href="https://github.com/lylxn/syne-search-engine" target="_blank" rel="noopener noreferrer">
-  <img width="450" height="225" alt="syne-search-engine" src="[https://github.com/user-attachments/assets/31b8c391-8082-4279-8867-0fabcd69bf73](https://github.com/user-attachments/assets/31b8c391-8082-4279-8867-0fabcd69bf73)" />
+  <img width="450" height="225" alt="syne-search-engine" src="https://github.com/user-attachments/assets/31b8c391-8082-4279-8867-0fabcd69bf73" />
 </a>
 
 ###
